@@ -8,11 +8,12 @@
 * Selenium 3.141.0
 
 <strong>Preciso baixar algo?</strong><br>
-Somente é necessario ter o Python instalado e uma IDE de sua preferencia; Não a necessidade de baixar o ChromeDriver e o Selenium.<br>
-Dentro do codigo, posue a venv os intens instalados.
+Somente é necessario ter o Python instalado e uma IDE de sua preferencia.<br>
+Não ha necessidade de baixar o ChromeDriver e o Selenium;<br>
+Dentro do codigo, posue a <strong>venv</strong> com os intens instalados.
 
 <strong>Como faço para funcionar o codigo?</strong>
-* Basta baixar ou clonar o codigo, depois abrir em uma IDE e rodar o arquivo <strong>main</strong><br>
+* Basta baixar ou clonar o codigo, depois abrir em uma IDE e rodar o arquivo <strong>main</strong>;<br>
 Ao rodar o codigo, é retornado por meio do console o resultado do teste, se aconteceu falha ou se esta tudo certo. 
 * Caso haja falha, é informado no console o numero que foi testado, que falhou na conversão por extenso.
-* O teste é dividido em dois, o site que converte o numero para o Português e o site que converte para Ingês.
+* O teste é dividido em dois, o site que converte o numero para o Português e o que converte para Ingês.
